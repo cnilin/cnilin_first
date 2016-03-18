@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1458309497 source:/home/cnilin/123/liaotian/gram/gos/main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	"uselei.h"
+	"order.h"
+	"login.h"
+	"help.h"
+	"clear.h"
+	"history.h"
+	"send.h"
+	"sign.h"
+	"msg.h"
+	"find.h"
+	"friend.h"
+	"h.h"
+
+1458309817 /home/cnilin/123/liaotian/gram/gos/uselei.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1458310173 /home/cnilin/123/liaotian/gram/gos/order.h
+
+1458309727 /home/cnilin/123/liaotian/gram/gos/login.h
+
+1458309711 /home/cnilin/123/liaotian/gram/gos/help.h
+
+1458309675 /home/cnilin/123/liaotian/gram/gos/clear.h
+
+1458309721 /home/cnilin/123/liaotian/gram/gos/history.h
+
+1458309635 /home/cnilin/123/liaotian/gram/gos/send.h
+
+1458309880 /home/cnilin/123/liaotian/gram/gos/sign.h
+
+1458309975 /home/cnilin/123/liaotian/gram/gos/msg.h
+
+1458309844 /home/cnilin/123/liaotian/gram/gos/find.h
+
+1458309690 /home/cnilin/123/liaotian/gram/gos/friend.h
+
+1458309880 /home/cnilin/123/liaotian/gram/gos/h.h
+
